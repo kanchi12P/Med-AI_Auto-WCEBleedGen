@@ -1,3 +1,4 @@
+# Table of the achieved evaluation metrics 
 ![image](https://github.com/kanchi12P/Med-AI_Auto-WCEBleedGen/assets/78892305/74d690da-3e60-45f0-a939-444a6cea349a)
 
 # Classification model graphs
