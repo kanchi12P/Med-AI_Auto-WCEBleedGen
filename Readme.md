@@ -41,3 +41,6 @@
 ![T1_bounding_boxes_3](https://github.com/kanchi12P/Med-AI_Auto-WCEBleedGen/assets/78892305/9496c55f-9257-4f21-a5b7-2cd5b382c23b)
 ![T1_bounding_boxes_2](https://github.com/kanchi12P/Med-AI_Auto-WCEBleedGen/assets/78892305/02cb92b0-83a2-4c55-b8aa-62f442d05ffa)
 ![T1_bounding_boxes_1](https://github.com/kanchi12P/Med-AI_Auto-WCEBleedGen/assets/78892305/327183ac-cec0-44dc-b03d-a5f52a62da52)
+
+# Predicted Bounding Boxex on Validation Dataset
+![validation_predictions](https://github.com/kanchi12P/Med-AI_Auto-WCEBleedGen/assets/85685489/8d246e9c-7359-49b5-b741-388ecd8dd094)
